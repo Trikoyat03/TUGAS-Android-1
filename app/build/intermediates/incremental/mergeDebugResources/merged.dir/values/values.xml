@@ -375,7 +375,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">TAMPILKAN DATA</string>
+    <string name="app_name">LAYAR</string>
     <string name="choose">Kirim</string>
     <string name="data">Data</string>
     <string name="dial_num">Telpon</string>
