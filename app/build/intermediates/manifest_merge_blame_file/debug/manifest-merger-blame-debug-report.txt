@@ -25,35 +25,34 @@
 17-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.rizky92.latihan1.ResultActivity" />
-21-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:12:9-61
-21-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:12:19-49
-22        <activity android:name="com.rizky92.latihan1.MoveWithObjectActivity" />
-22-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:13:9-60
-22-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:13:19-57
-23        <activity android:name="com.rizky92.latihan1.MoveWithDataActivity" />
-23-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:14:9-58
-23-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:14:19-55
-24        <activity android:name="com.rizky92.latihan1.MoveActivity" />
-24-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:15:9-50
-24-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:15:19-47
-25        <activity android:name="com.rizky92.latihan1.MainActivity" >
-25-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:16:9-22:20
-25-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:16:19-47
-26            <intent-filter>
-26-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:17:13-21:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:18:17-69
-27-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:18:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:20:17-77
-29-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:20:27-74
-30            </intent-filter>
-31        </activity>
-32    </application>
-33
-34</manifest>
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.rizky92.latihan1.ResultActivity" />
+20-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:12:9-61
+20-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:12:19-49
+21        <activity android:name="com.rizky92.latihan1.MoveWithObjectActivity" />
+21-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:13:9-60
+21-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:13:19-57
+22        <activity android:name="com.rizky92.latihan1.MoveWithDataActivity" />
+22-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:14:9-58
+22-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:14:19-55
+23        <activity android:name="com.rizky92.latihan1.MoveActivity" />
+23-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:15:9-50
+23-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:15:19-47
+24        <activity android:name="com.rizky92.latihan1.MainActivity" >
+24-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:16:9-22:20
+24-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:16:19-47
+25            <intent-filter>
+25-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:17:13-21:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:18:17-69
+26-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:20:17-77
+28-->C:\Users\PEMERINTAHAN-pc\3D Objects\Trikoyat\app\src\main\AndroidManifest.xml:20:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>
